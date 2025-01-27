@@ -2,4 +2,6 @@ i: inserts content in a file
 ls: displays files and directories
 cd: changes directory
 pwd: print working directory
+touch: to create a new file 
+ls -a: List all files, including hidden files
 
